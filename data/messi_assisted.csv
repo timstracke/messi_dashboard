@@ -1,0 +1,281 @@
+match_id,num_assists,opponent,player,season_id
+3773631.0,1.0,Real Betis,Ousmane Dembélé,90.0
+3773660.0,1.0,Levante,Frenkie de Jong,90.0
+3773565.0,1.0,Granada,Antoine Griezmann,90.0
+3773457.0,1.0,Celta Vigo,Sergio Busquets i Burgos,90.0
+3773586.0,1.0,Granada,Antoine Griezmann,90.0
+3773369.0,1.0,Huesca,Francisco António Machado Mota de Castro Trincão,90.0
+3773369.0,1.0,Huesca,Sergio Busquets i Burgos,90.0
+3773661.0,1.0,Getafe,Sergio Busquets i Burgos,90.0
+3773597.0,1.0,Real Sociedad,Sergio Busquets i Burgos,90.0
+3773597.0,1.0,Real Sociedad,Jordi Alba Ramos,90.0
+3773571.0,1.0,Real Valladolid,Pedro González López,90.0
+3764661.0,1.0,Athletic Club,Pedro González López,90.0
+3764661.0,1.0,Athletic Club,Antoine Griezmann,90.0
+3773526.0,1.0,Deportivo Alavés,Sergio Busquets i Burgos,90.0
+3773526.0,1.0,Deportivo Alavés,Antoine Griezmann,90.0
+3773547.0,1.0,Osasuna,Francisco António Machado Mota de Castro Trincão,90.0
+3764440.0,1.0,Elche,Martin Braithwaite Christensen,90.0
+3764440.0,1.0,Elche,Frenkie de Jong,90.0
+3773477.0,1.0,Real Betis,Sergi Roberto Carnicer,90.0
+303731.0,1.0,Eibar,Arturo Erasmo Vidal Pardo,42.0
+303731.0,1.0,Eibar,Ivan Rakitić,42.0
+303451.0,1.0,Mallorca,Luis Alberto Suárez Díaz,42.0
+303451.0,1.0,Mallorca,Ivan Rakitić,42.0
+303451.0,1.0,Mallorca,Antoine Griezmann,42.0
+303421.0,1.0,Deportivo Alavés,Jordi Alba Ramos,42.0
+303421.0,1.0,Deportivo Alavés,Ricard Puig Martí,42.0
+303600.0,1.0,Real Valladolid,Ivan Rakitić,42.0
+303548.0,1.0,Mallorca,Luis Alberto Suárez Díaz,42.0
+303700.0,1.0,Eibar,Antoine Griezmann,42.0
+303524.0,1.0,Atlético Madrid,Luis Alberto Suárez Díaz,42.0
+303517.0,1.0,Deportivo Alavés,Luis Alberto Suárez Díaz,42.0
+303610.0,1.0,Granada,Arturo Erasmo Vidal Pardo,42.0
+16029.0,1.0,Sevilla,Luis Alberto Suárez Díaz,4.0
+16190.0,1.0,Sevilla,Ousmane Dembélé,4.0
+16190.0,1.0,Sevilla,Ivan Rakitić,4.0
+16109.0,1.0,Celta Vigo,Jordi Alba Ramos,4.0
+16215.0,1.0,Real Betis,Ivan Rakitić,4.0
+16215.0,1.0,Real Betis,Luis Alberto Suárez Díaz,4.0
+15946.0,1.0,Deportivo Alavés,Luis Alberto Suárez Díaz,4.0
+16157.0,1.0,Valencia,Arturo Erasmo Vidal Pardo,4.0
+16136.0,1.0,Leganés,Jordi Alba Ramos,4.0
+16056.0,1.0,Real Betis,Arturo Erasmo Vidal Pardo,4.0
+16289.0,1.0,Levante,Arturo Erasmo Vidal Pardo,4.0
+16149.0,1.0,Girona,Jordi Alba Ramos,4.0
+15973.0,1.0,Huesca,Philippe Coutinho Correia,4.0
+15973.0,1.0,Huesca,Ivan Rakitić,4.0
+16317.0,1.0,Eibar,Ivan Rakitić,4.0
+16317.0,1.0,Eibar,Arturo Erasmo Vidal Pardo,4.0
+16131.0,1.0,Eibar,Luis Alberto Suárez Díaz,4.0
+16095.0,1.0,Levante,Arturo Erasmo Vidal Pardo,4.0
+16095.0,1.0,Levante,Sergio Busquets i Burgos,4.0
+15986.0,1.0,Girona,Arturo Erasmo Vidal Pardo,4.0
+16023.0,1.0,Valencia,Luis Alberto Suárez Díaz,4.0
+16231.0,1.0,Espanyol,Malcom Filipe Silva de Oliveira,4.0
+9855.0,1.0,Athletic Club,Ousmane Dembélé,1.0
+9636.0,1.0,Las Palmas,Denis Suárez Fernández,1.0
+9636.0,1.0,Las Palmas,Luis Alberto Suárez Díaz,1.0
+9609.0,1.0,Eibar,Sergio Busquets i Burgos,1.0
+9609.0,1.0,Eibar,Aleix Vidal Parreu,1.0
+9609.0,1.0,Eibar,José Paulo Bezzera Maciel Júnior,1.0
+9928.0,1.0,Villarreal,Andrés Iniesta Luján,1.0
+9742.0,1.0,Levante,Jordi Alba Ramos,1.0
+9765.0,1.0,Real Betis,Luis Alberto Suárez Díaz,1.0
+9765.0,1.0,Real Betis,Sergio Busquets i Burgos,1.0
+9924.0,1.0,Real Madrid,Luis Alberto Suárez Díaz,1.0
+9661.0,1.0,Athletic Club,Jordi Alba Ramos,1.0
+9592.0,2.0,Espanyol,Jordi Alba Ramos,1.0
+9592.0,1.0,Espanyol,Ivan Rakitić,1.0
+9870.0,1.0,Leganés,Ousmane Dembélé,1.0
+9870.0,1.0,Leganés,Philippe Coutinho Correia,1.0
+9700.0,1.0,Celta Vigo,José Paulo Bezzera Maciel Júnior,1.0
+9860.0,1.0,Sevilla,Philippe Coutinho Correia,1.0
+9717.0,1.0,Villarreal,Sergio Busquets i Burgos,1.0
+9912.0,3.0,Deportivo La Coruna,Luis Alberto Suárez Díaz,1.0
+9811.0,1.0,Girona,Luis Alberto Suárez Díaz,1.0
+9581.0,1.0,Deportivo Alavés,Francisco Alcácer García,1.0
+9581.0,1.0,Deportivo Alavés,Jordi Alba Ramos,1.0
+266989.0,1.0,Sevilla,Neymar da Silva Santos Junior,2.0
+266357.0,1.0,Osasuna,Sergio Busquets i Burgos,2.0
+266357.0,1.0,Osasuna,Jordi Alba Ramos,2.0
+267569.0,1.0,Real Madrid,Ivan Rakitić,2.0
+267569.0,1.0,Real Madrid,Jordi Alba Ramos,2.0
+267212.0,1.0,Leganés,Luis Alberto Suárez Díaz,2.0
+267670.0,1.0,Real Betis,Sergi Roberto Carnicer,2.0
+267101.0,1.0,Osasuna,Ivan Rakitić,2.0
+266440.0,1.0,Valencia,Javier Alejandro Mascherano,2.0
+266033.0,1.0,Valencia,Ivan Rakitić,2.0
+266731.0,1.0,Eibar,Luis Alberto Suárez Díaz,2.0
+266528.0,1.0,Espanyol,Luis Alberto Suárez Díaz,2.0
+266280.0,1.0,Sevilla,Luis Alberto Suárez Díaz,2.0
+267373.0,1.0,Real Sociedad,Luis Alberto Suárez Díaz,2.0
+266952.0,1.0,Villarreal,Sergio Busquets i Burgos,2.0
+266299.0,1.0,Celta Vigo,Rafael Alcântara do Nascimento,2.0
+266299.0,1.0,Celta Vigo,Sergio Busquets i Burgos,2.0
+266191.0,1.0,Real Sociedad,Neymar da Silva Santos Junior,2.0
+265952.0,1.0,Sporting Gijón,Javier Alejandro Mascherano,2.0
+267492.0,1.0,Deportivo La Coruna,Neymar da Silva Santos Junior,2.0
+267596.0,1.0,Leganés,Luis Alberto Suárez Díaz,2.0
+266498.0,1.0,Getafe,Arda Turan,27.0
+266310.0,1.0,Deportivo La Coruna,Luis Alberto Suárez Díaz,27.0
+267576.0,1.0,Atlético Madrid,Jordi Alba Ramos,27.0
+266653.0,1.0,Rayo Vallecano,Sergio Busquets i Burgos,27.0
+266653.0,1.0,Rayo Vallecano,Neymar da Silva Santos Junior,27.0
+265894.0,1.0,Málaga,Adriano Correia Claro,27.0
+266885.0,1.0,Real Sociedad,Neymar da Silva Santos Junior,27.0
+266815.0,2.0,Sporting Gijón,Luis Alberto Suárez Díaz,27.0
+266620.0,1.0,Granada,Luis Alberto Suárez Díaz,27.0
+266620.0,1.0,Granada,Arda Turan,27.0
+266056.0,1.0,Eibar,Munir El Haddadi Mohamed,27.0
+267327.0,1.0,Real Betis,Neymar da Silva Santos Junior,27.0
+266166.0,1.0,Atlético Madrid,Luis Alberto Suárez Díaz,27.0
+266490.0,1.0,Levante,Marc Bartra Aregall,27.0
+266557.0,1.0,Valencia,Jordi Alba Ramos,27.0
+265835.0,2.0,Sevilla,Neymar da Silva Santos Junior,26.0
+265963.0,1.0,Getafe,Luis Alberto Suárez Díaz,26.0
+266117.0,1.0,Granada,Daniel Alves da Silva,26.0
+267197.0,1.0,Deportivo La Coruna,Rafael Alcântara do Nascimento,26.0
+267197.0,1.0,Deportivo La Coruna,Neymar da Silva Santos Junior,26.0
+265896.0,1.0,Eibar,Neymar da Silva Santos Junior,26.0
+265866.0,1.0,Córdoba,Daniel Alves da Silva,26.0
+267400.0,1.0,Almería,Marc Bartra Aregall,26.0
+267561.0,1.0,Rayo Vallecano,Gerard Piqué Bernabéu,26.0
+267597.0,1.0,Villarreal,Luis Alberto Suárez Díaz,26.0
+266794.0,1.0,Elche,Marc Bartra Aregall,26.0
+267343.0,1.0,Granada,Luis Alberto Suárez Díaz,26.0
+266631.0,1.0,Atlético Madrid,Pedro Eliezer Rodríguez Ledesma,26.0
+266320.0,1.0,Espanyol,Pedro Eliezer Rodríguez Ledesma,26.0
+266320.0,1.0,Espanyol,Luis Alberto Suárez Díaz,26.0
+266320.0,1.0,Espanyol,Xavier Hernández Creus,26.0
+266230.0,1.0,Deportivo La Coruna,Daniel Alves da Silva,26.0
+266230.0,1.0,Deportivo La Coruna,Ivan Rakitić,26.0
+266531.0,1.0,Espanyol,Luis Alberto Suárez Díaz,26.0
+266921.0,1.0,Elche,Sergio Busquets i Burgos,26.0
+266741.0,1.0,Levante,Pedro Eliezer Rodríguez Ledesma,26.0
+266741.0,1.0,Levante,Marc Bartra Aregall,26.0
+266967.0,1.0,Eibar,Ivan Rakitić,26.0
+266142.0,1.0,Sevilla,Neymar da Silva Santos Junior,26.0
+70301.0,1.0,Sevilla,Neymar da Silva Santos Junior,25.0
+70298.0,2.0,Valencia,Francesc Fàbregas i Soler,25.0
+70298.0,1.0,Valencia,Neymar da Silva Santos Junior,25.0
+267520.0,1.0,Real Sociedad,Neymar da Silva Santos Junior,25.0
+70289.0,1.0,Villarreal,Francesc Fàbregas i Soler,25.0
+267675.0,1.0,Sevilla,Pedro Eliezer Rodríguez Ledesma,25.0
+267675.0,1.0,Sevilla,Andrés Iniesta Luján,25.0
+266074.0,1.0,Osasuna,Andrés Iniesta Luján,25.0
+266074.0,1.0,Osasuna,Daniel Alves da Silva,25.0
+266074.0,1.0,Osasuna,Alexis Alejandro Sánchez Sánchez,25.0
+266274.0,1.0,Celta Vigo,Andrés Iniesta Luján,25.0
+265918.0,1.0,Rayo Vallecano,Francesc Fàbregas i Soler,25.0
+265918.0,1.0,Rayo Vallecano,Alexis Alejandro Sánchez Sánchez,25.0
+70277.0,1.0,Levante,Pedro Eliezer Rodríguez Ledesma,25.0
+266491.0,1.0,Getafe,Daniel Alves da Silva,25.0
+265837.0,1.0,Real Sociedad,Sergio Busquets i Burgos,25.0
+266420.0,1.0,Almería,Pedro Eliezer Rodríguez Ledesma,25.0
+266015.0,1.0,Real Valladolid,Xavier Hernández Creus,24.0
+70281.0,1.0,Real Betis,Alexis Alejandro Sánchez Sánchez,24.0
+266724.0,1.0,Mallorca,Sergio Busquets i Burgos,24.0
+266724.0,1.0,Mallorca,Alexis Alejandro Sánchez Sánchez,24.0
+70272.0,1.0,Real Madrid,Daniel Alves da Silva,24.0
+70304.0,2.0,Deportivo La Coruna,Francesc Fàbregas i Soler,24.0
+70280.0,2.0,Levante,Andrés Iniesta Luján,24.0
+70296.0,1.0,Atlético Madrid,Alexis Alejandro Sánchez Sánchez,24.0
+70297.0,1.0,Getafe,Thiago Alcântara do Nascimento,24.0
+70256.0,1.0,Celta Vigo,Cristian Tello Herrera,24.0
+70259.0,1.0,Real Sociedad,Pedro Eliezer Rodríguez Ledesma,24.0
+70259.0,1.0,Real Sociedad,Cristian Tello Herrera,24.0
+70260.0,1.0,Osasuna,David Villa Sánchez,24.0
+70260.0,1.0,Osasuna,Xavier Hernández Creus,24.0
+70260.0,1.0,Osasuna,Adriano Correia Claro,24.0
+70263.0,1.0,Athletic Club,Pedro Eliezer Rodríguez Ledesma,24.0
+70263.0,1.0,Athletic Club,Xavier Hernández Creus,24.0
+70276.0,1.0,Rayo Vallecano,Francesc Fàbregas i Soler,24.0
+70276.0,1.0,Rayo Vallecano,Martín Montoya Torralbo,24.0
+70287.0,1.0,Real Sociedad,Francesc Fàbregas i Soler,24.0
+70309.0,1.0,Real Zaragoza,Martín Montoya Torralbo,24.0
+70309.0,1.0,Real Zaragoza,Jordi Alba Ramos,24.0
+70295.0,2.0,Real Betis,Andrés Iniesta Luján,24.0
+70307.0,1.0,Rayo Vallecano,David Villa Sánchez,24.0
+70305.0,1.0,Deportivo La Coruna,Alexis Alejandro Sánchez Sánchez,24.0
+267502.0,1.0,Athletic Club,Thiago Alcântara do Nascimento,24.0
+70271.0,1.0,Sevilla,Cristian Tello Herrera,24.0
+70262.0,1.0,Osasuna,Jordi Alba Ramos,24.0
+70262.0,1.0,Osasuna,Alexis Alejandro Sánchez Sánchez,24.0
+69328.0,1.0,Valencia,Sergio Busquets i Burgos,23.0
+70219.0,1.0,Real Zaragoza,Alexis Alejandro Sánchez Sánchez,23.0
+69331.0,1.0,Real Zaragoza,Francesc Fàbregas i Soler,23.0
+69322.0,1.0,Racing Santander,Francesc Fàbregas i Soler,23.0
+69316.0,1.0,Real Sociedad,Daniel Alves da Silva,23.0
+69332.0,1.0,Rayo Vallecano,Daniel Alves da Silva,23.0
+69335.0,1.0,Málaga,Pedro Eliezer Rodríguez Ledesma,23.0
+69335.0,1.0,Málaga,Thiago Alcântara do Nascimento,23.0
+69335.0,1.0,Málaga,Adriano Correia Claro,23.0
+69297.0,1.0,Atlético Madrid,Pedro Eliezer Rodríguez Ledesma,23.0
+69297.0,1.0,Atlético Madrid,David Villa Sánchez,23.0
+70225.0,2.0,Granada,Daniel Alves da Silva,23.0
+69293.0,1.0,Racing Santander,Andrés Iniesta Luján,23.0
+69333.0,1.0,Levante,Daniel Alves da Silva,23.0
+69343.0,1.0,Getafe,Andrés Iniesta Luján,23.0
+69340.0,1.0,Málaga,Andrés Iniesta Luján,23.0
+69327.0,1.0,Real Betis,Alexis Alejandro Sánchez Sánchez,23.0
+69326.0,1.0,Sevilla,Andrés Iniesta Luján,23.0
+69268.0,1.0,Villarreal,Andrés Iniesta Luján,23.0
+69268.0,1.0,Villarreal,Thiago Alcântara do Nascimento,23.0
+69320.0,1.0,Espanyol,Adriano Correia Claro,23.0
+69314.0,1.0,Mallorca,Daniel Alves da Silva,23.0
+70220.0,2.0,Osasuna,Francesc Fàbregas i Soler,23.0
+70220.0,1.0,Osasuna,Daniel Alves da Silva,23.0
+70224.0,2.0,Rayo Vallecano,Pedro Eliezer Rodríguez Ledesma,23.0
+70221.0,1.0,Levante,Alexis Alejandro Sánchez Sánchez,23.0
+69276.0,1.0,Atlético Madrid,Daniel Alves da Silva,22.0
+69307.0,1.0,Osasuna,David Villa Sánchez,22.0
+69271.0,1.0,Osasuna,Daniel Alves da Silva,22.0
+69270.0,1.0,Getafe,David Villa Sánchez,22.0
+69296.0,2.0,Hércules,Daniel Alves da Silva,22.0
+69269.0,1.0,Atlético Madrid,Pedro Eliezer Rodríguez Ledesma,22.0
+69302.0,1.0,Real Sociedad,Daniel Alves da Silva,22.0
+69302.0,1.0,Real Sociedad,Bojan Krkíc Pérez,22.0
+69282.0,1.0,Athletic Club,Daniel Alves da Silva,22.0
+69274.0,1.0,Valencia,Adriano Correia Claro,22.0
+69283.0,1.0,Mallorca,Seydou Kéita,22.0
+69286.0,1.0,Racing Santander,Andrés Iniesta Luján,22.0
+69236.0,1.0,Mallorca,Pedro Eliezer Rodríguez Ledesma,22.0
+69308.0,1.0,Villarreal,Pedro Eliezer Rodríguez Ledesma,22.0
+69263.0,1.0,Real Zaragoza,David Villa Sánchez,22.0
+69306.0,1.0,Almería,David Villa Sánchez,22.0
+69243.0,1.0,Sevilla,Daniel Alves da Silva,21.0
+69243.0,1.0,Sevilla,Eric-Sylvain Bilal Abidal,21.0
+69241.0,1.0,Tenerife,Daniel Alves da Silva,21.0
+69239.0,1.0,Sevilla,Maxwell Scherrer Cabelino Andrade,21.0
+69253.0,1.0,Real Zaragoza,Andrés Iniesta Luján,21.0
+69244.0,1.0,Villarreal,Daniel Alves da Silva,21.0
+69244.0,1.0,Villarreal,Xavier Hernández Creus,21.0
+69229.0,1.0,Getafe,Zlatan Ibrahimović,21.0
+69219.0,3.0,Tenerife,Bojan Krkíc Pérez,21.0
+69218.0,1.0,Deportivo La Coruna,Daniel Alves da Silva,21.0
+69218.0,1.0,Deportivo La Coruna,Pedro Eliezer Rodríguez Ledesma,21.0
+69242.0,2.0,Real Valladolid,Gnégnéri Yaya Touré,21.0
+69259.0,1.0,Real Madrid,Xavier Hernández Creus,21.0
+69224.0,2.0,Valencia,Thierry Henry,21.0
+69224.0,1.0,Valencia,Xavier Hernández Creus,21.0
+69210.0,1.0,Real Valladolid,Zlatan Ibrahimović,21.0
+69240.0,1.0,Getafe,Gnégnéri Yaya Touré,21.0
+69238.0,1.0,Málaga,Daniel Alves da Silva,21.0
+69254.0,2.0,Racing Santander,Xavier Hernández Creus,21.0
+69292.0,1.0,Atlético Madrid,Daniel Alves da Silva,21.0
+69292.0,1.0,Atlético Madrid,Xavier Hernández Creus,21.0
+69227.0,1.0,Real Zaragoza,Pedro Eliezer Rodríguez Ledesma,21.0
+69227.0,1.0,Real Zaragoza,Andrés Iniesta Luján,21.0
+69247.0,1.0,Athletic Club,Pedro Eliezer Rodríguez Ledesma,21.0
+69225.0,1.0,Real Madrid,Thierry Henry,41.0
+69251.0,1.0,Valencia,Andrés Iniesta Luján,41.0
+69185.0,1.0,Atlético Madrid,Thierry Henry,41.0
+69142.0,1.0,Málaga,Xavier Hernández Creus,41.0
+69189.0,1.0,Numancia,Daniel Alves da Silva,41.0
+69171.0,1.0,Sevilla,Xavier Hernández Creus,41.0
+69171.0,1.0,Sevilla,Aliaksandr Hleb,41.0
+69249.0,1.0,Real Madrid,Xavier Hernández Creus,41.0
+69138.0,1.0,Sporting Gijón,Xavier Hernández Creus,41.0
+69183.0,1.0,Deportivo La Coruna,Xavier Hernández Creus,41.0
+69285.0,1.0,Recreativo Huelva,Daniel Alves da Silva,41.0
+69151.0,1.0,Levante,Anderson Luís de Souza,40.0
+69144.0,1.0,Atlético Madrid,Ronaldo de Assis Moreira,40.0
+68360.0,1.0,Levante,Xavier Hernández Creus,40.0
+69143.0,1.0,Real Zaragoza,Thierry Henry,40.0
+69143.0,1.0,Real Zaragoza,Anderson Luís de Souza,40.0
+69148.0,1.0,Sevilla,Thierry Henry,40.0
+69176.0,1.0,Atlético Madrid,"Samuel Eto""o Fils",39.0
+69176.0,1.0,Atlético Madrid,Giovanni van Bronckhorst,39.0
+68336.0,1.0,Gimnàstic Tarragona,Anderson Luís de Souza,39.0
+68326.0,1.0,Celta Vigo,Andrés Iniesta Luján,39.0
+68335.0,1.0,Real Madrid,"Samuel Eto""o Fils",39.0
+68335.0,1.0,Real Madrid,Ronaldo de Assis Moreira,39.0
+68329.0,1.0,Sevilla,Xavier Hernández Creus,39.0
+69165.0,1.0,Espanyol,Anderson Luís de Souza,39.0
+69175.0,1.0,Deportivo La Coruna,Ronaldo de Assis Moreira,39.0
+68327.0,1.0,Osasuna,"Samuel Eto""o Fils",39.0
+68354.0,1.0,Racing Santander,"Samuel Eto""o Fils",38.0
+68325.0,1.0,Mallorca,Sylvio Mendes Campos Junior,38.0
+68325.0,1.0,Mallorca,Ronaldo de Assis Moreira,38.0
+68316.0,1.0,Albacete,Ronaldo de Assis Moreira,37.0
